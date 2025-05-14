@@ -1,0 +1,1 @@
+git@github.com:MariaBogdanchikova/zakrivayuschiy-teg-f.git https://mariabogdanchikova.github.io/zakrivayuschiy-teg-f/
