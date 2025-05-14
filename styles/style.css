@@ -235,11 +235,11 @@
   padding: 15px 21px 15px 19px;
 }
 
-.floppy__dialog-button { 
-  grid-column: 1 / 3; 
+.floppy__dialog-button {
+  grid-column: 1 / 3;
   padding: 10px;
-  font-size: 14px; 
-} 
+  font-size: 14px;
+}
 
 .floppy__icon {
   block-size: 21px;
